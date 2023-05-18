@@ -5,4 +5,11 @@
 <img src='assets/anime-sticker.png' width='200px'>
 <h3>I create websites and solve Olympiad programming problems.</h3>
 <hr>
-<div style='display: flex'><img src='assets/data-science.png' width='100px'><h3>programming languages, that I use</h3></div>
+<div id='a'><img src='assets/data-science.png' width='100px'><h3>programming languages, that I use</h3></div>
+
+
+<style>
+  #a {
+    display: flex;
+  }
+</style>
