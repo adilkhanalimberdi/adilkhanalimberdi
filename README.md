@@ -2,7 +2,4 @@
 
 <h3> I am 16 years old, I live in Kazakhstan. </h3>
 
-
-
-
-![](./assets/anime-sticker.png)
+<img src='assets/anime-sticker.png'>
