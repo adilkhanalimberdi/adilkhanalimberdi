@@ -17,5 +17,8 @@
 [![codewars](https://www.codewars.com/users/adilkhanalimberdi/badges/large)](https://www.codewars.com/users/adilkhanalimberdi)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhanalimberdi)](https://github.com/adilkhanalimberdi/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhanalimberdi&layout=compact)](https://github.com/adilkhanalimberdi/github-readme-stats)
 
