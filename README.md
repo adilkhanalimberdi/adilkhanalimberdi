@@ -1,6 +1,8 @@
 <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-solid-straight/css/uicons-solid-straight.css'>
 <H1> Hi ✌, I'm <br> 𝗔𝗱𝗶𝗹𝗸𝗵𝗮𝗻.</H1>
 
+![](https://komarev.com/ghpvc/?username=adilkhanalimberdi)
+
 <h3> I am 16 years old, I live in Kazakhstan. </h3> 
 <img src='assets/anime-sticker.png' width='200px'>
 <h3>I create websites and solve Olympiad programming problems.</h3>
@@ -14,11 +16,16 @@
 
 <h3> Information </h3>
 
+CodeWars
+
 [![codewars](https://www.codewars.com/users/adilkhanalimberdi/badges/large)](https://www.codewars.com/users/adilkhanalimberdi)
 
+Leetcode
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=adilkhanalimberdi)](https://github.com/adilkhanalimberdi/leetcode-stats)
+
+Github
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhanalimberdi)](https://github.com/adilkhanalimberdi/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhanalimberdi&layout=compact)](https://github.com/adilkhanalimberdi/github-readme-stats)
-
