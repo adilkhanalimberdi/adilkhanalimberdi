@@ -5,4 +5,4 @@
 <img src='assets/anime-sticker.png' width='200px'>
 <h3>I create websites and solve Olympiad programming problems.</h3>
 <hr>
-<h3><i class="fi fi-ss-display-code"></i>programming languages, that I use</h3>
+<div><h3><i class="fi fi-ss-display-code"></i>programming languages, that I use</h3></div>
