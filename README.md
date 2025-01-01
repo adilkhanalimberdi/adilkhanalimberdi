@@ -12,9 +12,6 @@ I'm a first year student at SDU university.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adilkhanalimberdi&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adilkhanalimberdi&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adilkhanalimberdi&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=adilkhanalimberdi&icon=5&color=2)](https://visitcount.itsvg.in)
 
