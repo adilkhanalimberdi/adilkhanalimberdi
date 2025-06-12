@@ -39,7 +39,7 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 
 ### Contact me:
 Email: adilkhankerimshe@gmail.com <br>
-Telegram: [@adilkhanalimberdi](t.me/adilkhanalimberdi) <br>
+Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi) <br>
 LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/) <br>
 
 ---
