@@ -38,9 +38,9 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 ---
 
 ### Contact me:
-Email: adilkhankerimshe@gmail.com
-Telegram: [@adilkhanalimberdi](t.me/adilkhanalimberdi)
-LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/)
+Email: adilkhankerimshe@gmail.com <br>
+Telegram: [@adilkhanalimberdi](t.me/adilkhanalimberdi) <br>
+LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/) <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adilkhanalimberdi&icon=5&color=2)](https://visitcount.itsvg.in)
