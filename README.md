@@ -6,9 +6,8 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 ⚙️ Passionate about **backend development**, **APIs**, and **system architecture**  
 🚀 My goal is to become a **Java backend expert** and build robust, scalable systems
 
-
 ---
-### Tech Stack:
+### Tech Stack
 <div align="center">
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
@@ -33,7 +32,7 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 </div>
 ---
 
-### Contact me:
+### Contact me
 Email: adilkhankerimshe@gmail.com <br>
 Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi) <br>
 LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/) <br>
