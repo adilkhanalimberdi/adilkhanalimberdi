@@ -17,3 +17,5 @@ Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi) <br>
 LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/) <br>
 
 ---
+
+[![](https://visitcount.itsvg.in/api?id=adilkhanalimberdi&icon=5&color=2)](https://visitcount.itsvg.in)
