@@ -1,6 +1,6 @@
 ### Introduction
 
-I'm **Adilkhan**, a **Java Backend Developer**  
+Hi, I'm **Adilkhan**, a **Java Backend Developer**  
 🎓 First-year IT student at **SDU University**  
 
 ---
@@ -8,7 +8,7 @@ I'm **Adilkhan**, a **Java Backend Developer**
 
 👨‍💻 Currently improving my skills in **Java** and **Databases**  
 ⚙️ Passionate about **backend development**, **APIs**, and **system architecture**  
-🚀 My goal is to become a **Java backend expert** and build robust, scalable systems  
+🚀 My goal is to become a **Java backend expert** and build robust, scalable systems 
 
 
 ---
