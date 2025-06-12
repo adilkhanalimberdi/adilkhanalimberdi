@@ -31,6 +31,9 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/></code>
 </div>
 
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/>
+
 ---
 ### Contact me
 Email: adilkhankerimshe@gmail.com <br>
