@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/devicon.min.css">
-
-
 ### About Me
 
 Hi, I'm **Adilkhan**, a **Java Backend Developer**  
@@ -37,9 +34,16 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/>
 
-<i class="devicon-java-plain colored" title="Java" style="font-size:40px;"></i>
-<i class="devicon-spring-plain colored" title="Spring" style="font-size:40px;"></i>
-<i class="devicon-docker-plain colored" title="Docker" style="font-size:40px;"></i>
+<!-- Подключаем Devicon -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/devicon.min.css">
+
+<div align="center">
+  <i class="devicon-java-plain colored" title="Java" style="font-size:50px; margin:10px;"></i>
+  <i class="devicon-spring-plain colored" title="Spring" style="font-size:50px; margin:10px;"></i>
+  <i class="devicon-docker-plain colored" title="Docker" style="font-size:50px; margin:10px;"></i>
+  <i class="devicon-postgresql-plain colored" title="PostgreSQL" style="font-size:50px; margin:10px;"></i>
+</div>
+
 
 
 ---
