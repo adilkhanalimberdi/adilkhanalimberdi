@@ -1,6 +1,17 @@
-# About Me:
-I'm a first year student at SDU university.
+### Introduction
 
+I'm **Adilkhan**, a **Java Backend Developer**  
+🎓 First-year IT student at **SDU University**  
+
+---
+### About Me
+
+👨‍💻 Currently improving my skills in **Java** and **Databases**  
+⚙️ Passionate about **backend development**, **APIs**, and **system architecture**  
+🚀 My goal is to become a **Java backend expert** and build robust, scalable systems  
+
+
+---
 ### Tech Stack:
 <div align="center">
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
