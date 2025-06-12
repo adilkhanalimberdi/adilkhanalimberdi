@@ -30,8 +30,8 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="Godot" title="Godot"/></code>
 </div>
----
 
+---
 ### Contact me
 Email: adilkhankerimshe@gmail.com <br>
 Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi) <br>
