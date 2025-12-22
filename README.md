@@ -2,7 +2,7 @@
 
 Hi, I'm **Adilkhan**, a **Java Backend Developer**  
 🎓 Second-year IT student at **SDU University**  
-👨‍💻 Currently improving my skills in **Java** and **Databases**  
+👨‍💻 Currently improving my skills in **Java** and **React**  
 ⚙️ Passionate about **backend development**, **APIs**, and **system architecture**  
 🚀 My goal is to become a **Java backend expert** and build robust, scalable systems
 
