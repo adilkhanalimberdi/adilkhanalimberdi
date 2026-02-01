@@ -12,17 +12,10 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
           
 ---
 ### Contact me
+Email: adilkhankerimshe@gmail.com <br>
+Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi) <br>
+LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/) <br>
 
-<!-- Email button using a Shields.io badge -->
-<!-- [![Email Me](https://img.shields.io/badge/Email_me)](mailto:adilkhankerimshe@gmail.com) -->
-[![Static Badge](https://img.shields.io/badge/Email_Me-red?style=social&logo=gmail&logoColor=red&logoSize=3&&label=GmaillabelColor=red&color=red)](mailto:adilkhankerimshe@gmail.com)
-<br>
-<!-- Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi) -->
-[![Static Badge](https://img.shields.io/badge/Text_Me-black?style=social&logo=telegram&logoColor=blue&logoSize=3&label=Telegram&labelColor=blue&color=blue)](https://t.me/adilkhanalimberdi)
-<br>
-<!-- LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/) -->
-[![Static Badge](https://img.shields.io/badge/Connect_With_Me-black?style=social&logo=linkedin&logoColor=blue&logoSize=3&label=LinkedIn&labelColor=blue&color=blue)](https://www.linkedin.com/in/adilkhan-kerimshe/)
-<br>
 
 ---
 
