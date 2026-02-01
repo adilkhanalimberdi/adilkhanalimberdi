@@ -14,7 +14,8 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 ### Contact me
 
 <!-- Email button using a Shields.io badge -->
-![Static Badge](https://img.shields.io/badge/Email_Me-red?style=social&logo=gmail&logoColor=red&logoSize=3&labelColor=red&color=red)
+<!-- [![Email Me](https://img.shields.io/badge/Email_me)](mailto:adilkhankerimshe@gmail.com) -->
+[![Static Badge](https://img.shields.io/badge/Email_Me-red?style=social&logo=gmail&logoColor=red&logoSize=3&labelColor=red&color=red)](mailto:adilkhankerimshe@gmail.com)
 <br>
 Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi)
 <br>
