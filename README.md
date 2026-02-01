@@ -12,7 +12,9 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
           
 ---
 ### Contact me
-Email: adilkhankerimshe@gmail.com <br>
+
+<!-- Email button using a Shields.io badge -->
+[![Email Me](https://img.shields.io)](mailto:your-email@example.com)
 Telegram: [@adilkhanalimberdi](https://t.me/adilkhanalimberdi) <br>
 LinkedIn: [linkedin.com/in/adilkhan-kerimshe](https://www.linkedin.com/in/adilkhan-kerimshe/) <br>
 
