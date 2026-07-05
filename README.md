@@ -18,7 +18,7 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
     <!-- Левая колонка с карточкой -->
     <td width="55%" style="border: none; padding: 0;">
       <a href="https://roadmap.sh">
-        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a044e146129019d44aac24b?variant=dark" alt="roadmap.sh"/></a>
+        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a044e146129019d44aac24b?variant=dark&v=1" alt="roadmap.sh"/></a>
       </a>
     </td>
     <!-- Пробел между колонками (вместо gap) -->
