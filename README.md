@@ -16,24 +16,25 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 <table border="0" style="border: none; border-collapse: collapse;" width="100%">
   <tr valign="top">
     <!-- Левая колонка с карточкой -->
-    <td width="55%" style="border: none; padding: 0;">
+    <td width="50%" style="border: none; padding: 0;">
       <a href="https://roadmap.sh">
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a044e146129019d44aac24b?variant=dark&v=1" alt="roadmap.sh"/></a>
       </a>
     </td>
-    <!-- Пробел между колонками (вместо gap) -->
-    <td width="5%" style="border: none; padding: 0;"></td>
-    <!-- Правая колонка с контактами -->
-    <td width="45%" style="border: none; padding: 0;">
-      <b>Contact me</b>
-      <br/><br/>
-      • Email: <a href="mailto:adilkhankerimshe@gmail.com">adilkhankerimshe@gmail.com</a><br/>
-      • Telegram: <a href="https://t.me/adilkhanalimberdi">t.me/adilkhanalimberdi</a><br/>
-      • LinkedIn: <a href="https://www.linkedin.com/in/adilkhan-kerimshe">linkedin.com/in/adilkhan-kerimshe</a>
+    <td width="50%" style="border: none; padding: 0;">
+        <a href="https://daily.dev/adilkhanalimberdi">
+            <img src="https://api.daily.dev/devcards/v2/V6T5tnalQHLbdbrqJe7rF.png?type=wide&r=p4x" width="652" alt="Alimberdi's Dev Card"/>
+        </a>
     </td>
   </tr>
 </table>
 
+---
+
+### Contact Me
+- Email: <a href="mailto:adilkhankerimshe@gmail.com">adilkhankerimshe@gmail.com</a><br/>
+- Telegram: <a href="https://t.me/adilkhanalimberdi">t.me/adilkhanalimberdi</a><br/>
+- linkedIn: <a href="https://www.linkedin.com/in/adilkhan-kerimshe">linkedin.com/in/adilkhan-kerimshe</a>
 
 ---
 
