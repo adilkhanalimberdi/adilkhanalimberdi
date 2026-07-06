@@ -36,6 +36,3 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 - Telegram: <a href="https://t.me/adilkhanalimberdi">t.me/adilkhanalimberdi</a><br/>
 - linkedIn: <a href="https://www.linkedin.com/in/adilkhan-kerimshe">linkedin.com/in/adilkhan-kerimshe</a>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=adilkhanalimberdi&icon=5&color=2)](https://visitcount.itsvg.in)
