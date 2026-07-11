@@ -13,21 +13,7 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 
 ---
 
-<table border="0" style="border: none; border-collapse: collapse;" width="100%">
-  <tr valign="top">
-    <!-- Левая колонка с карточкой -->
-    <td width="50%" style="border: none; padding: 0;">
-      <a href="https://roadmap.sh">
-        <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a044e146129019d44aac24b?variant=dark&v=1" alt="roadmap.sh"/></a>
-      </a>
-    </td>
-    <td width="50%" style="border: none; padding: 0;">
-        <a href="https://daily.dev/adilkhanalimberdi">
-            <img src="https://api.daily.dev/devcards/v2/V6T5tnalQHLbdbrqJe7rF.png?type=wide&r=p4x" width="652" alt="Alimberdi's Dev Card"/>
-        </a>
-    </td>
-  </tr>
-</table>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a044e146129019d44aac24b?variant=dark" alt="roadmap.sh"/></a>
 
 ---
 
