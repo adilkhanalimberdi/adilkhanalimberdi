@@ -13,10 +13,6 @@ Hi, I'm **Adilkhan**, a **Java Backend Developer**
 
 ---
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a044e146129019d44aac24b?variant=dark" alt="roadmap.sh"/></a>
-
----
-
 ### Contact Me
 - Email: <a href="mailto:adilkhankerimshe@gmail.com">adilkhankerimshe@gmail.com</a><br/>
 - Telegram: <a href="https://t.me/adilkhanalimberdi">t.me/adilkhanalimberdi</a><br/>
